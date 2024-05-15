@@ -1,5 +1,6 @@
 distancia = float (input("qual é a distancia da viagem:"))
 
+print (f'fazendo uma viagem de {distancia}Km ')
 n1 = distancia * 0.50
 n2 = distancia * 0.45
 
